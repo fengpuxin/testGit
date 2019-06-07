@@ -14,8 +14,8 @@ select * from ba23;
 
 select * from ba24;
 
-select 1 from dual;
-
 select 23456 from dual;
 
 select abcdefghijklmnopqrstuvwxyz from dual;
+
+select * from ac83 a,ac84 b where a.aaz220 = b.aaz200;
