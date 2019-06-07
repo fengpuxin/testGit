@@ -18,4 +18,4 @@ select 23456 from dual;
 
 select abcdefghijklmnopqrstuvwxyz from dual;
 
-select * from ac83 a,ac84 b where a.aaz220 = b.aaz200;
+select 11111111111111111111 from dual;
