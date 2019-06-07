@@ -17,3 +17,5 @@ select * from ba24;
 select 1 from dual;
 
 select 23456 from dual;
+
+select abcdefghijklmnopqrstuvwxyz from dual;
